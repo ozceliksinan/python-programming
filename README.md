@@ -21,7 +21,3 @@ This project is designed to assist individuals who are new to the Python program
 3. Review the Python file to understand the exercise requirements.
 4. Create your own solution and observe the results.
 5. Compare your solution with the provided sample solution to enhance your understanding.
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
