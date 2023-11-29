@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 # Yapısı şu şekildedir;
 
 # reduce(function, iterasyon yapılabilen veritipi(liste vb.))

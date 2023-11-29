@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Varsayılan değerleri anlamak için selamla fonksiyonunu varsayılan 

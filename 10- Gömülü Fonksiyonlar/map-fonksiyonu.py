@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 # Pythonda gömülü bir fonksiyon olan map() fonksiyonunun yapısı şu şekildedir.
 # map(fonksiyon,iterasyon yapılabilecek veritipi(liste,demet vb),....)
 

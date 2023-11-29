@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 # Bu konuda listeleri üretmek ve oluşturmak Pythonda çok pratik bir yöntem olan “List Comprehension” konusunu öğreneceğiz. 
 # Biliyorsunuz Pythonda birçok işimizi çok kısa kodlar halledebiliyoruz. 
 # Ancak kodları daha da kısaltmak ve pratik yöntemler kullanmak her zaman isteriz.

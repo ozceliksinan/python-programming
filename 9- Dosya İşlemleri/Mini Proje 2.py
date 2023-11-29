@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 with open("futbolcular.txt","r",encoding="utf-8") as file:

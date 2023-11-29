@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 # Fonksiyonlar programlamada belli işlevleri olan ve tekrar tekrar kullandığımız yapılardır.
 # Örneğin print() fonksiyonunun görevi içine gönderdiğimiz değerleri ekrana yazdırdırmaktır. 
 # Bu fonksiyon Python geliştiricileri tarafından bir defa yazılmış ve biz de bu fonksiyonu 

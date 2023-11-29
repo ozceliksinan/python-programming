@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 # Kendi veri tiplerimizi oluşturmak ve bu veri tiplerinden objeler üretmemiz 
 # için öncelikle objeleri üreteceğimiz yapıyı tanımlamamız gerekiyor. 
 # Bunu tasarladığımız yapıya da sınıf veya ingilizce ismiyle class diyoruz. 

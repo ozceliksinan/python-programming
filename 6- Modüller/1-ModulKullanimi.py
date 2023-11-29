@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Pythonda aslında her bir dosya bir modüldür ve her bir modül içinde fonksiyonlar, sınıflar ve objeler barındırır. 

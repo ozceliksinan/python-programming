@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Hatalar ve İstisnalar (Exceptions)

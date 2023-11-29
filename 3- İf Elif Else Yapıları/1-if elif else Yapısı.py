@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Koşullu Durumlar – if – elif – else koşullu durumları

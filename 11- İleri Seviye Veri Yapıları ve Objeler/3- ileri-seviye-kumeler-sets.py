@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Kümeler, matematikte olduğu gibi bir elemandan sadece bir adet tutan bir veritipidir. 

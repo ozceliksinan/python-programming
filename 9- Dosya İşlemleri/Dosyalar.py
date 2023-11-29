@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Bir dosyayı açmak için open() fonksiyonunu kullanıyoruz. Yapısı şu şekildedir;

@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Pythonda her bir değişkenin, fonksiyonun ve ileride göreceğimiz sınıfların(class) 

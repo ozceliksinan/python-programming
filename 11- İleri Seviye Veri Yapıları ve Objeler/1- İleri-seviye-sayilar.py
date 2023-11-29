@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Bu konuda sayı veritiplerini biraz daha derinlemesine incelemeye ve sayılar 

@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 # 1'den 1000'e kadar olan sayılardan asal sayıları üreten generator bir fonksiyon yazın.
 
 def asal_mı(sayı):

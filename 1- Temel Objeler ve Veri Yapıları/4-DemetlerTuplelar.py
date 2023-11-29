@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # Programlarımızda değiştirilmesini istemediğimiz değerleri bir demet içinde depolayabiliriz.

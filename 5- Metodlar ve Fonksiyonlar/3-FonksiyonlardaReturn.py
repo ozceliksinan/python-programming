@@ -1,6 +1,5 @@
 #######################################
 # Writed by Sinan Özçelik             #
-# Web Site -> sinanozcelik.com        #
 #######################################
 
 # return ifadesi fonksiyonun işlemi bittikten sonra çağrıldığı 

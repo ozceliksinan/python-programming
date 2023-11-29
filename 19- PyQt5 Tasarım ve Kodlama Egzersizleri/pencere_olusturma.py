@@ -1,7 +1,3 @@
-#######################################
-# Web Site -> sinanozcelik.com        #
-#######################################
-
 """
 PyQt 5 Nedir?
 Kullanıcılarına grafiksel arayüz (GUI) deneyimi sunmak için geliştirilmiş Python kütüphanesidir. 
